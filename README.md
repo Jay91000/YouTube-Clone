@@ -19,5 +19,5 @@ To view the project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/youtube-clone.git
+   git clone https://github.com/Jay91000/YouTube-Clone.git
    ```
